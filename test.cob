@@ -1,0 +1,9 @@
+      IDENTIFICATION DIVISION.
+      PROGRAM-ID. HELLOWRD.
+      DATA DIVISION.
+         WORKING-STORAGE SECTION.
+         01 🍣 PIC X(60) VALUE 'Hello'.
+
+      PROCEDURE DIVISION.
+      DISPLAY 🍣.
+      STOP RUN.
