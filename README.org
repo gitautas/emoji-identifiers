@@ -9,10 +9,11 @@ Use emojis as identifiers
 | ruby      | ✅                                          |
 | nim       | ✅                                          |
 | julia     | ✅                                          |
-| java      | ❌, terrible language                       |
-| r         | ❌also it's called with a capital letter ew |
+| java      | ❌  terrible language                       |
+| r         | ❌ also it's called with a capital letter ew|
 | c++ clang | ❌                                          |
 | js        | ❌                                          |
 | python    | ❌                                          |
 | go        | ❌                                          |
-| rust      | explicit ❌                                 |
+| rust      | ❌ explicit ;(                              |
+| carbon    | ❌                                          |
