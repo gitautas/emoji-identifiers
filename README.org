@@ -3,6 +3,7 @@
 Use emojis as identifiers
 | language     | result                                       |
 |--------------+----------------------------------------------|
+| batch        | ✅                                           |
 | cobol        | ✅                                           |
 | c            | ✅                                           |
 | c++ gcc      | ✅                                           |
