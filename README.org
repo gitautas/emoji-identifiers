@@ -1,19 +1,20 @@
 #+title: Findings
 
 Use emojis as identifiers
-| language  | result                                      |
-|-----------+---------------------------------------------|
-| cobol     | ✅                                          |
-| c         | ✅                                          |
-| c++ gcc   | ✅                                          |
-| ruby      | ✅                                          |
-| nim       | ✅                                          |
-| julia     | ✅                                          |
-| java      | ❌  terrible language                       |
-| r         | ❌ also it's called with a capital letter ew|
-| c++ clang | ❌                                          |
-| js        | ❌                                          |
-| python    | ❌                                          |
-| go        | ❌                                          |
-| rust      | ❌ explicit ;(                              |
-| carbon    | ❌                                          |
+| language  | result                                       |
+|-----------+----------------------------------------------|
+| cobol     | ✅                                           |
+| c         | ✅                                           |
+| c++ gcc   | ✅                                           |
+| ruby      | ✅                                           |
+| nim       | ✅                                           |
+| julia     | ✅                                           |
+| java      | ❌  terrible language                        |
+| r         | ❌ also it's called with a capital letter ew |
+| c++ clang | ❌                                           |
+| js        | ❌                                           |
+| python    | ❌                                           |
+| go        | ❌                                           |
+| rust      | ❌ explicit ;(                               |
+| carbon    | ❌                                           |
+| apl       | ❌ good language                             |
