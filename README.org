@@ -31,3 +31,4 @@ Use emojis as identifiers
 | r            | ❌ also it's called with a capital letter ew |
 | rust         | ❌ explicit ;(                               |
 | java         | ❌ terrible language                         |
+| apl          | ❌ good language                             |
