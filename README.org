@@ -4,31 +4,32 @@ Use emojis as identifiers
 | language     | result                                       |
 |--------------+----------------------------------------------|
 | batch        | ✅                                           |
-| cobol        | ✅                                           |
 | c            | ✅                                           |
 | c++ gcc      | ✅                                           |
+| cobol        | ✅                                           |
 | crystal      | ✅                                           |
-| ruby         | ✅                                           |
-| nim          | ✅                                           |
-| scheme       | ✅                                           |
 | julia        | ✅                                           |
+| nim          | ✅                                           |
 | php          | ✅                                           |
+| ruby         | ✅                                           |
+| scheme       | ✅                                           |
 | apl          | ❌ good language                             |
-| carbon       | ❌                                           |
-| c++ clang    | ❌                                           |
+| bash         | ❌                                           |
 | c#           | ❌                                           |
+| c++ clang    | ❌                                           |
+| carbon       | ❌                                           |
 | coffeescript | ❌                                           |
-| js           | ❌                                           |
-| python       | ❌                                           |
-| go           | ❌                                           |
-| kotlin       | ❌                                           |
-| haskell      | ❌                                           |
 | f#           | ❌                                           |
 | glsl         | ❌                                           |
-| tcl          | ❌                                           |
-| powershell   | ❌                                           |
+| go           | ❌                                           |
+| haskell      | ❌                                           |
+| java         | ❌ terrible language                         |
+| js           | ❌                                           |
+| kotlin       | ❌                                           |
 | lua          | ❌                                           |
-| bash         | ❌                                           |
+| pascal       | ❌ fpc                                       |
+| powershell   | ❌                                           |
+| python       | ❌                                           |
 | r            | ❌ also it's called with a capital letter ew |
 | rust         | ❌ explicit ;(                               |
-| java         | ❌ terrible language                         |
+| tcl          | ❌                                           |
