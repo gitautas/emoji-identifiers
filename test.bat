@@ -1,1 +1,3 @@
-echo 🐕
+@echo off
+set 🐕=Woof
+echo %🐕%
